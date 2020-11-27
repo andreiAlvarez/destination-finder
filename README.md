@@ -8,6 +8,8 @@ Destination Finder will help you find the perfect spot to visit based on your in
 
 From there you can "favorite" the ones that sound interesting and find out more about each individual place by visiting the details page!
 
+Technologies Used: JavaScript, Node.js, Express.js, HTML, CSS, MongoDB. 
+
 ## Features 
 * Destination search
 * Explore section for the top destinations in the world
